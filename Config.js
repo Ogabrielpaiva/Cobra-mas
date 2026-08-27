@@ -1,0 +1,3 @@
+const MERCADO_PAGO_PUBLIC_KEY = "APP_USR-21eb8491-09ef-40c3-b701-ce2b3f0e88db";
+
+export default MERCADO_PAGO_PUBLIC_KEY;
